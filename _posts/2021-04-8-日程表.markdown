@@ -10,9 +10,9 @@ author: Ike06
 ---
 
 ### 2021-4-8
-[x] mybatis-plus
-[x] security
-[x] css
-[x] vue.js
-[x] swagger2
-[x] log  
+*[ ] mybatis-plus
+*[ ] security
+*[ ] css
+*[ ] vue.js
+*[ ] swagger2
+*[ ] log  
