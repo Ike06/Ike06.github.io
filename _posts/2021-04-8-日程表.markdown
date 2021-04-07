@@ -13,9 +13,9 @@ author: Ike06
 
 
 ### 2021-4-8
-*[ ] mybatis-plus
-*[ ] security
-*[ ] css
-*[ ] vue.js
-*[ ] swagger2
-*[ ] log 
+- mybatis-plus
+- security
+- css
+- vue.js
+- swagger2
+- log 
