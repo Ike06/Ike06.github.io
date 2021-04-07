@@ -14,13 +14,6 @@
      */
   var demoContent = [
     {
-      demo_link: 'https://codepen.io/haoyang/pen/jrvrQq',
-      img_link: 'https://ooo.0o0.ooo/2016/11/24/5836d81f48cd2.png',
-      code_link: 'https://codepen.io/haoyang/pen/jrvrQq',
-      title: 'Fisher-Yates 洗牌算法动画',
-      core_tech: 'JavaScript',
-      description: 'Fisher-Yates 洗牌算法动画。算法详情见 <a href ="https://gaohaoyang.github.io/2016/10/16/shuffle-algorithm/">这里</a>。'
-    }, {
       demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
       img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
       code_link: 'https://github.com/Gaohaoyang/test/tree/master/headerTransition',
@@ -90,14 +83,7 @@
       title: '百度前端学院 task0002 展示主页',
       core_tech: 'HTML CSS',
       description: '任务二的展示主页，里面包含五个小 demo。还有一篇相关的<a href="http://gaohaoyang.github.io/2015/04/22/baidu-ife-2-javascript/" target="_blank">日志。</a>'
-    }, {
-      demo_link: 'http://gaohaoyang.github.io/ife/task/task0001/work/Gaohaoyang/index.html',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/Demo-blog-ife.jpg',
-      code_link: 'https://github.com/Gaohaoyang/ife/tree/master/task/task0001/work/Gaohaoyang',
-      title: '百度前端学院 task0001 个人博客',
-      core_tech: 'HTML CSS',
-      description: '完成百度前端学院的任务。深刻的理解了BFC、浮动、inline-block间距，多列布局等技术。还有一篇相关的<a href="http://gaohaoyang.github.io/2015/04/15/baidu-ife-1/" target="_blank">日志。</a>'
-    }, {
+    },  {
       demo_link: 'http://gaohaoyang.github.io/ghost-button-css3/',
       img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/DemoGhost-Button.png',
       code_link: 'https://github.com/Gaohaoyang/ghost-button-css3',
@@ -111,20 +97,6 @@
       title: 'CSS3 阴影特效',
       core_tech: 'CSS3',
       description: 'CSS3 中的阴影、旋转等效果，制作出曲边阴影和翘边阴影。'
-    }, {
-      demo_link: 'http://gaohaoyang.github.io/learning-AngularJS/2-3-bookstore-add-sth-by-myself/',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/DemoAngularJS.png',
-      code_link: 'https://github.com/Gaohaoyang/learning-AngularJS/tree/master/2-3-bookstore-add-sth-by-myself',
-      title: 'AngularJS 结合动画效果',
-      core_tech: 'AngularJS CSS3',
-      description: '使用 AngularJS 中的 ngAnimate 加 CSS3里面的一些旋转效果，做出页面切换的效果。'
-    }, {
-      demo_link: 'http://gaohaoyang.github.io/learning-AngularJS/2-4-UiRouterPractice',
-      img_link: 'http://ww2.sinaimg.cn/large/7011d6cfjw1f3b8zumfqij20q40nh76x.jpg',
-      code_link: 'https://github.com/Gaohaoyang/learning-AngularJS/tree/master/2-4-UiRouterPractice',
-      title: 'AngularJS UI-router 练习',
-      core_tech: 'AngularJS UI-router',
-      description: 'UI-router 作为 AngularJS 中路由的扩充，实现了多级路由的效果。使得前端界面跳转更加方便。'
     }, {
       demo_link: 'http://gaohaoyang.github.io/test/bootstrap-zhihu/',
       img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/teach-girlfriend-html-CopyZhihu.jpg',
