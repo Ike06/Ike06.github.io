@@ -13,4 +13,6 @@ author: Ike06
 [x] mybatis-plus
 [x] security
 [x] css
-[x] vue.js  
+[x] vue.js
+[x] swagger2
+[x] log  
