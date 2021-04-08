@@ -12,6 +12,10 @@ header {
             color: #fff;
         }
     }
+    .stickyPostion {
+        postion: sticky;
+        top: 0;
+    }
     .wrapper {
         width: 1140px;
         margin: 0 auto;
