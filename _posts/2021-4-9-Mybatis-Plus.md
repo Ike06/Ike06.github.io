@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "日程表"
-date:   2021-04-8
+title:  "Mybatis Plus(一)"
+date:   2021-4-9
 categories: Java工具
 tags: MybatisPlus
 excerpt: Mybatis Plus 代码自动生成使用！
