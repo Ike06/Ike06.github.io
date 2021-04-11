@@ -9,6 +9,9 @@ mathjax: true
 author: Ike06
 ---
 
+* content
+{:toc}
+
 ## [mybatis-plus-doc官方文档](https://github.com/baomidou/mybatis-plus-doc/tree/master/guide)
 - [快速开始](https://github.com/baomidou/mybatis-plus-doc/blob/master/guide/quick-start.md)
 - [代码生成器](https://github.com/baomidou/mybatis-plus-doc/blob/master/guide/generator.md)
